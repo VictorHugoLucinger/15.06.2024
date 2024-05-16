@@ -1,0 +1,111 @@
+==========================================================================================================================================================
+
+ATIVIDADE | 14.15.24
+
+==========================================================================================================================================================
+
+> Supervisores de produção em industrias siderúrgicas: 
+
+
+-DHCP (V) Precisa de um IP em seu tablet, utilizado como principal ferramenta de monitoramento. 
+
+-DNS (V) Possui um AD vinculado ao DNS. 
+
+-Ipressora (X).
+
+-Arquivos (v) Pasta compartilhada com o setor administrativo e logistica. 
+
+-IIS (V) acesso ao sistema da empresa. 
+
+-AD (V) Usuario padrão para supervisores de cada setor da produção, como: Supervisor de dobra, Supervisor de pintura de chapa, Supervisor de carga e descarga e etc.
+
+==========================================================================================================================================================
+
+> Administrativo:
+
+
+-DHCP (V) Precisa para utilizar os computadores e impressoras conectadas na rede.
+
+-DNS (V) Nescesário para os emails.
+
+-Ipressora (V) conectado a rede para imprimir arquivos. 
+
+-Arquivos (V) Se conectar com as pastas compartilhadas no servidor.
+
+-IIS (V) Conexão com o sistema.
+
+-AD (V) Usuario de cada pessoa no setor administrativo, como: ADM.Luisa, ADM.Daniel, ADM.Sara e etc.
+
+==========================================================================================================================================================
+
+> Técnico de laboratório industrial: 
+
+
+-DHCP (V) Precisa ter conexão com o computador do laboratório e seus dispositivos.
+
+-DNS (V) Nescesário para os emails.
+
+-Ipressora (X) . 
+
+-Arquivos (X) .
+
+-IIS (V) Conexão ao sistema da empresa.
+
+-AD (V) Usuario "Lab" que possui o sistema onde opera .
+
+
+==========================================================================================================================================================
+
+> Ferramenteiro: Responsaveis apenas na manuteção de equipamentos, caso precise de ferramentas deve entrar em contato com o superior.
+
+
+-DHCP (X) .
+
+-DNS (X) .
+
+-Ipressora (X) . 
+
+-Arquivos (X) .
+
+-IIS (X) .
+
+-AD (X) .
+
+
+==========================================================================================================================================================
+
+> Trabalhador de moldagem: Responsaveis apenas na manuteção de equipamentos, caso precise de ferramentas deve entrar em contato com o superior.
+
+
+-DHCP (X) .
+
+-DNS (X) .
+
+-Ipressora (X) . 
+
+-Arquivos (X) .
+
+-IIS (X) .
+
+-AD (X) .
+
+
+==========================================================================================================================================================
+
+> Trabalhadores de caldeira e serralheria: 
+
+
+-DHCP (V) Ip para o computador e impressora.
+
+-DNS (X) .
+
+-Ipressora (V) Para imprir as etiquetas de indentificação do produto. 
+
+-Arquivos (X) .
+
+-IIS (X) .
+
+-AD (V) Usuário "Usina" para cada galpão e setor.
+
+
+==========================================================================================================================================================
